@@ -1,0 +1,16 @@
+# 机器学习 - Fashion MNIST 多分类项目
+
+## 基础依赖
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+jupyter>=1.0.0
+nbconvert>=6.0.0
+
+## 深度学习（运行 CNN / MLP / ResNet 时需额外安装）
+# tensorflow>=2.10.0
+
+## 安装命令
+# pip install -r requirements.txt
+# pip install tensorflow   # 如需运行深度学习代码

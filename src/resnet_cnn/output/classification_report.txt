@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+ T-shirt/top       0.83      0.91      0.87      1050
+     Trouser       0.98      0.99      0.98      1050
+    Pullover       0.90      0.90      0.90      1050
+       Dress       0.94      0.88      0.91      1050
+        Coat       0.82      0.92      0.87      1050
+      Sandal       1.00      0.95      0.97      1050
+       Shirt       0.83      0.69      0.75      1050
+     Sneaker       0.91      0.99      0.95      1050
+         Bag       0.98      0.99      0.99      1050
+  Ankle boot       0.99      0.95      0.97      1050
+
+    accuracy                           0.92     10500
+   macro avg       0.92      0.92      0.92     10500
+weighted avg       0.92      0.92      0.92     10500
